@@ -13,3 +13,5 @@ The programs have same function to solve it, that is f(x) = x^3. You have to set
   - Data length = 100
 # Contact
 For more information, email: auliakhalqillah.mail@gmail.com
+# Material Source
+Steven C. Chapra and Raymond P. Canale, Numerical Methods for Engineers, Sixth Edition
