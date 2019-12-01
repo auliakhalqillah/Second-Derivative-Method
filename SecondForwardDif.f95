@@ -31,7 +31,7 @@ PROGRAM CenterDifference
   FMT = "(a12,a13,a20,a20,a15,a13)"
   WRITE(*,*) ""
   WRITE(*,FMT)"ITER","Data(X)","Raw F(X)","Difference F(X)","Analytic F(X)","RESIDUAL"
-  OPEN(10, FILE ='SecondBdiffOut.txt', STATUS='replace')
+  OPEN(10, FILE ='SecondFdiffOut.txt', STATUS='replace')
 
   ! Residual between two point is calculated
   H = (B-A)/N
