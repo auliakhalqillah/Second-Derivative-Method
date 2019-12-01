@@ -1,5 +1,5 @@
 # Second-Derivative-Method
-To solve differential equation that have power more than two using second derivative method. The second derivative methods in this package, Forward Difference, Backward Difference, and Center Difference is implemented in Fortran 95 program. So, make sure you have Fortran compiler in your computer already.
+To solve differential equation that have power more than two, you can use second derivative method. The second derivative methods in this package are Forward Difference, Backward Difference, and Center Difference is implemented in Fortran 95 program. So, make sure you have Fortran compiler in your computer already.
 # The Package
 There are four files in this package:
   1. SecondForwardDif.f95
