@@ -14,4 +14,4 @@ The programs have same function to solve it, that is f(x) = x^3. You have to set
 # Contact
 For more information, email: auliakhalqillah.mail@gmail.com
 # Material Source
-Steven C. Chapra and Raymond P. Canale, Numerical Methods for Engineers, Sixth Edition
+[Julan Hernadi,2012,Matematika Numerik dengan Implementasi Matlab](http://andipublisher.com/produk-1012004497-matematika-numerik-dengan-implementasi-m.html)
